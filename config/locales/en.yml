@@ -1,0 +1,12 @@
+en:
+  locales:
+    fr: French
+    en: English
+  appointments:
+    index:
+      title: "Turbolinks Stimulus Flatpickr Demo"
+      appointments: "Appointments"
+      add: "New appointment"
+      next_appointment: "Next availability : %{next_at}"
+    datepicker:
+      select: "Pick a date"

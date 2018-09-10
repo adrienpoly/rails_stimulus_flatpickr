@@ -1,0 +1,17 @@
+{
+  "name": "rails_stimulus_flatpickr",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "flatpickr": "^4.5.0",
+    "rails-ujs": "^5.2.0",
+    "stimulus": "^1.1.0",
+    "stimulus-flatpickr": "^1.0.0-beta.2",
+    "turbolinks": "^5.2.0"
+  },
+  "devDependencies": {
+    "add": "^2.0.6",
+    "webpack-dev-server": "2.11.2",
+    "yarn": "^1.9.4"
+  }
+}
