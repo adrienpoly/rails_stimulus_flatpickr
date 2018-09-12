@@ -1,5 +1,8 @@
 # Rails Showcase of Stimulus-Flatpickr wrapper
 
+This project is in support of the article I published on dev.to
+https://dev.to/adrienpoly/introducing-stimulus-flatpickr-wrapper--5c23
+
 This example shows how to use [stimulus-flatpickr](https://github.com/adrienpoly/stimulus-flatpickr) wrapper in a Rails app to have an advanced date picking solution with:
 
 * localization of the datepicker 🌍
