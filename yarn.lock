@@ -5303,9 +5303,9 @@ stdout-stream@^1.4.0:
   dependencies:
     readable-stream "^2.0.1"
 
-stimulus-flatpickr@^1.0.0-beta.2:
-  version "1.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/stimulus-flatpickr/-/stimulus-flatpickr-1.0.0-beta.2.tgz#d8e7c9d463867d4c89945e9773f710412fbe364d"
+stimulus-flatpickr@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/stimulus-flatpickr/-/stimulus-flatpickr-1.0.0.tgz#609f490d885e6fa9f4619101c0971f0b282e0db7"
   dependencies:
     flatpickr "^4.4.6"
     stimulus "^1.0.1"
