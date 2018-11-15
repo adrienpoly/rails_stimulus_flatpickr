@@ -8,6 +8,6 @@
         flatpickr_locale: locale,
         flatpickr_min_date: Time.zone.now,
         flatpickr_max_date: Time.zone.now + 60.days,
-        flatpickr_disable: Appointment.up_comings(60).pluck(:start_at) - [appointment.start_at],
+        flatpickr_disable: dates_to_disable - [appointment.start_at]
       } %>
 <% end %>

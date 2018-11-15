@@ -7,6 +7,7 @@ class AppointmentsController < ApplicationController
     @appointments = Appointment.up_comings(60)
     @appointment = Appointment.new
     @next_appointment = Appointment.next
+    @dates_to_disable = @appointments.pluck(:start_at)
   end
 
   def create
