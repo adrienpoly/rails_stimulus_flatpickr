@@ -1,6 +1,6 @@
 <div class="row my-3 align-items-center">
   <div class="col-sm-11">
-    <%= render "datepicker", appointment: appointment %>
+    <%= render "datepicker", appointment: appointment, dates_to_disable: @dates_to_disable %>
   </div>
   <%= link_to appointment_path(appointment),
       method: :delete,
