@@ -12,6 +12,6 @@
   "devDependencies": {
     "add": "^2.0.6",
     "webpack-dev-server": "2.11.2",
-    "yarn": "^1.9.4"
+    "yarn": "^1.17.3"
   }
 }
