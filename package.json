@@ -6,7 +6,7 @@
     "flatpickr": "^4.5.0",
     "rails-ujs": "^5.2.0",
     "stimulus": "^1.1.0",
-    "stimulus-flatpickr": "^1.1.1",
+    "stimulus-flatpickr": "^1.1.0-beta.1",
     "turbolinks": "^5.2.0"
   },
   "devDependencies": {
