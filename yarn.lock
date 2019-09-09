@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@rails/webpacker@3.5":
-  version "3.5.5"
-  resolved "https://registry.yarnpkg.com/@rails/webpacker/-/webpacker-3.5.5.tgz#8911c66bcefc8bc6b91270e92f0d39e3c2d43116"
-  integrity sha512-R9kglLb/R9mMqf2BW91XJHYc0q00qAO67vfrbV52ifTSywPOixEka/7oU3cb6671u1ajd74kuGAsCSnBtdVHJg==
+"@rails/webpacker@^3.5.5":
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/@rails/webpacker/-/webpacker-3.6.0.tgz#89f50421934a40cad7193cd62756a18fa5027251"
+  integrity sha512-QlEPgdi++lBjc2rGp2s3hhT9vbhskeMSpHWOxVnpoMjIspTvjSyRWBV8t15d9M4cy5W5Zxlt87aVce7gVI4lFA==
   dependencies:
     babel-core "^6.26.3"
     babel-loader "^7.1.5"
