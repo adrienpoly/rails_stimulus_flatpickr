@@ -2,11 +2,11 @@
   "name": "rails_stimulus_flatpickr",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "3.5",
+    "@rails/webpacker": "^3.5.5",
     "flatpickr": "^4.5.0",
     "rails-ujs": "^5.2.0",
     "stimulus": "^1.1.0",
-    "stimulus-flatpickr": "^1.1.1",
+    "stimulus-flatpickr": "^1.1.2",
     "turbolinks": "^5.2.0"
   },
   "devDependencies": {

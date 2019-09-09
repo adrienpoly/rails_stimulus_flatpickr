@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@rails/webpacker@3.5":
-  version "3.5.5"
-  resolved "https://registry.yarnpkg.com/@rails/webpacker/-/webpacker-3.5.5.tgz#8911c66bcefc8bc6b91270e92f0d39e3c2d43116"
-  integrity sha512-R9kglLb/R9mMqf2BW91XJHYc0q00qAO67vfrbV52ifTSywPOixEka/7oU3cb6671u1ajd74kuGAsCSnBtdVHJg==
+"@rails/webpacker@^3.5.5":
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/@rails/webpacker/-/webpacker-3.6.0.tgz#89f50421934a40cad7193cd62756a18fa5027251"
+  integrity sha512-QlEPgdi++lBjc2rGp2s3hhT9vbhskeMSpHWOxVnpoMjIspTvjSyRWBV8t15d9M4cy5W5Zxlt87aVce7gVI4lFA==
   dependencies:
     babel-core "^6.26.3"
     babel-loader "^7.1.5"
@@ -6731,10 +6731,10 @@ stdout-stream@^1.4.0:
   dependencies:
     readable-stream "^2.0.1"
 
-stimulus-flatpickr@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/stimulus-flatpickr/-/stimulus-flatpickr-1.1.1.tgz#e3f09e24f80c69b906f1b8e63baed6a6ffbb6776"
-  integrity sha512-vvRBEyQrbUWH5dth4Er7I+PdALWvhYOhNfa1aTJ9KMhPh0aPbHehLEb/wcBsLQ5IFxOlVFO66QqfVftt/NoomQ==
+stimulus-flatpickr@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/stimulus-flatpickr/-/stimulus-flatpickr-1.1.2.tgz#54afe71bb8883b7ea5ad8dc5e9eb68813b2d117f"
+  integrity sha512-4jZIuwhdi+vPWbMxopRNP4SIyy6EaDeVOWWhcoouSCrYiJ/hh531Swq6MgkO4++/s9Vbf+mUQ9YVrhxkoAz6Cg==
   dependencies:
     flatpickr ">=4.6.0"
     stimulus "^1.1.1"
