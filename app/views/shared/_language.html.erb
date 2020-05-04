@@ -1,9 +1,9 @@
 <div class="container mt-1">
   <div class="row justify-content-end">
     <div class="btn-group" role="group" aria-label="Basic example">
-      <%= link_to t("locales.en"), appointments_path(locale: ""),
+      <%= link_to "English", appointments_path(locale: ""),
           class: "btn btn-sm btn-primary #{locale == :en ? "disabled" : ""}" %>
-      <%= link_to t("locales.fr"), appointments_path(locale: :fr),
+      <%= link_to "Français", appointments_path(locale: :fr),
           class: "btn btn-sm btn-primary #{locale == :fr ? "disabled" : ""}" %>
     </div>
   </div>
